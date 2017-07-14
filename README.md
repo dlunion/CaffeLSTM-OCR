@@ -16,7 +16,8 @@ lstm网络设计注意事项：<br/>
 
 
 <br/>
-里面的C++程序是纯无依赖的，只依赖[CCDL](https://github.com/dlunion/CCDL) <br/>
+里面的C++程序是纯无依赖的，只依赖[CCDL](https://github.com/dlunion/CCDL)
+<br/>
 
 # 下载
 模型、演示图片、和依赖项<br/>
