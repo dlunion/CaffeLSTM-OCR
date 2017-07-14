@@ -1,4 +1,4 @@
-/c++/*.sdf
+*.sdf
 /libgfortran-3.dll
 /libopenblas.dll
 /libquadmath-0.dll
@@ -6,4 +6,4 @@
 /classification_dll.dll
 /libgcc_s_sjlj-1.dll
 /yzm1
-/CaffeLSTM-OCR.rar
+*.rar
