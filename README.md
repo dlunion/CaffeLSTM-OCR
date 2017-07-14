@@ -14,6 +14,8 @@ lstm网络设计注意事项：<br/>
 5.训练过程中，如果出现难以收敛，把dropout层的dropout_ratio调低到0.5或者更低比如0.3甚至0，如果过拟合了，就调高，甚至可以0.7、0.9。当然默认是不要修改他，除非你也在研究<br/>
 6.lstm的num_output个数也影响精度，还有所谓的多层lstm也是可以有的<br/>
 
+![5BSRM_9299.png](https://github.com/dlunion/CaffeLSTM-OCR/blob/master/demo/5BSRM_9299.png)
+![demo.png](https://github.com/dlunion/CaffeLSTM-OCR/blob/master/demo/demo.png)
 
 <br/>
 里面的C++演示程序是干净的
