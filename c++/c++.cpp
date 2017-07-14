@@ -53,7 +53,7 @@ void main(){
 
 	//注意目录是相对工程上级目录的
 	Classifier* classif = createClassifier("deploy.prototxt", "_iter_122659.caffemodel");
-	const char* imageFile = "yzm1/MAGYZ_10991.png";
+	const char* imageFile = "yzm1/5BSRM_9299.png";
 	
 	vector<string> labelMap = loadCodeMap("label-map.txt");
 	vector<char> data = readFile(imageFile);
