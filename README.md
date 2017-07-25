@@ -25,4 +25,4 @@ lstm网络设计注意事项：<br/>
 模型、演示图片、和依赖项，依赖项编译自https://github.com/dlunion/CCDL <br/>
 
 [CaffeLSTM-OCR.rar](http://www.zifuture.com/fs/12.github/CaffeLSTM-OCR/CaffeLSTM-OCR.rar)<br/>
-[训练集](http://www.zifuture.com/fs/12.github/CaffeLSTM-OCR/11.lstm-test.rar)
+[train Dataset](http://www.zifuture.com/fs/12.github/CaffeLSTM-OCR/11.lstm-test.rar)
